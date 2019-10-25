@@ -11,11 +11,11 @@ repositories {
 
 dependencies {
     compile group: 'javax.activation', name: 'activation', version: '1.1'
-    compile group: 'axis', name: 'axis', version: '1.2'
+    compile group: 'axis', name: 'axis', version: '1.2.1'
     compile group: 'axis', name: 'axis-saaj', version: '1.2'
     compile group: 'axis', name: 'axis-jaxrpc', version: '1.2'
     compile group: 'axis', name: 'axis-ant', version: '1.2'
-    compile group: 'commons-fileupload', name: 'commons-fileupload', version: '1.2.1'
+    compile group: 'commons-fileupload', name: 'commons-fileupload', version: '1.2.2'
     compile group: 'commons-io', name: 'commons-io', version: '1.4'
     compile group: 'commons-collections', name: 'commons-collections', version: '3.1'
     // compile group: 'xml-apis', name: 'xml-apis', version: '1.4.1'
