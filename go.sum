@@ -287,6 +287,10 @@ github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1w=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
+github.com/syncthing/notify v0.0.0-20190709140112-69c7a957d3e2 h1:6tuEEEpg+mxM82E0YingzoXzXXISYR/o/7I9n573LWI=
+github.com/syncthing/notify v0.0.0-20190709140112-69c7a957d3e2/go.mod h1:Sn4ChoS7e4FxjCN1XHPVBT43AgnRLbuaB8pEc1Zcdjg=
+github.com/syncthing/syncthing v0.10.26 h1:OWbhDmaxDWWavG+qFRDpq+F47q14QVHfOHvZyUPe/5s=
+github.com/syncthing/syncthing v0.10.26/go.mod h1:ylURcZ2CSTAidps8DKU5N8KBOiMyfTUOsWoRUS7b11Y=
 github.com/syndtr/goleveldb v1.0.0 h1:fBdIW9lB4Iz0n9khmH8w27SJ3QEJ7+IgjPEwGSZiFdE=
 github.com/syndtr/goleveldb v1.0.0/go.mod h1:ZVVdQEZoIme9iO1Ch2Jdy24qqXrMMOU6lpPAyBWyWuQ=
 github.com/syndtr/goleveldb v1.0.1-0.20190318030020-c3a204f8e965/go.mod h1:9OrXJhf154huy1nPWmuSrkgjPUtUNhA+Zmy+6AESzuA=

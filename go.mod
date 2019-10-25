@@ -33,6 +33,7 @@ require (
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/shirou/gopsutil v2.19.9+incompatible // indirect
 	github.com/spf13/cobra v0.0.5 // indirect
+	github.com/syncthing/syncthing v0.10.26 // indirect
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	go.uber.org/atomic v1.4.0 // indirect
 	go.uber.org/multierr v1.1.0 // indirect
