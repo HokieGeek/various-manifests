@@ -30,7 +30,7 @@ idna==2.6
 ipaddress==1.0.22
 isodate==0.5.4            # via python3-saml
 itsdangerous==0.24        # via flask
-jinja2==2.9.6             # via flask
+jinja2==2.11.3             # via flask
 jmespath==0.9.2           # via boto3, botocore
 lru-dict==1.1.6
 lxml==4.2.1               # via xmlsec
