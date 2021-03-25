@@ -50,7 +50,7 @@ pynamodb==3.2.1
 pyopenssl==16.2.0
 python-dateutil==2.6.0    # via botocore, pynamodb
 python3-saml==1.4.0
-pyyaml==3.11
+pyyaml==5.4
 redis==2.10.3
 requests==2.11.1
 s3transfer==0.1.10        # via boto3
